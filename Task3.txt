@@ -1,0 +1,92 @@
+{0}: Question: What tag is used to render an image on a webpage?  
+Answer: <img>
+
+{1}: Question: Apart from `<i>` tag, which of the following tag is used to render a text in italics?  
+Answer: <em>
+
+{2}: Question: What is the correct syntax to write an HTML comment?  
+Answer: <!-- Comment -->
+
+{3}: Question: Colors are defined in HTML using?  
+Answer: All of the above
+
+{4}: Question: Which property is used to set colors in HTML?  
+Answer: color
+
+{5}: Question: What are the types of unordered lists in HTML?  
+Answer: Circle, square, disc.
+
+{6}: Question: Which property is used to set border colors in HTML?  
+Answer: border-color
+
+{7}: Question: Which of the following things are necessary to create an HTML page?  
+Answer: Both A and B
+
+{8}: Question: Which of the following tags is used to indicate the page’s start and endpoints?  
+Answer: <body>
+
+{9}: Question: Which of the following is true about HTML tags?  
+Answer: Are not case sensitive
+
+{10}: Question: Which HTML tag is called the root element of an HTML document?  
+Answer: <html>
+
+{11}: Question: How is black color represented in terms of RGB values?  
+Answer: RGB(0, 0, 0)
+
+{12}: Question: What does the Alpha value in RGBA represent?  
+Answer: Opacity value for a color.
+
+{13}: Question: What does the Alpha value of 0.0 represent?  
+Answer: Fully Transparent.
+
+{14}: Question: How to set a font for a whole page?  
+Answer: None of the above
+
+{15}: Question: The CSS inside HTML elements used alongside the style attribute is called?  
+Answer: Inline CSS
+
+{16}: Question: Which of the following colors contain equal amounts of RGB?  
+Answer: All of the above
+
+{17}: Question: What is the specialty about the <small> and <big> tags in HTML?  
+Answer: They can be used for text only.
+
+{18}: Question: Which of the following tags is used to add a row to a table in HTML?  
+Answer: <tr>
+
+{19}: Question: Which property allows an image link to show a text label?  
+Answer: alt
+
+{20}: Question: If a background image is smaller than the screen on which it is being displayed, what will occur on the webpage?  
+Answer: The image will be repeated
+
+{21}: Question: What are the properties of block-level elements?  
+Answer: All of the above
+
+{22}: Question: Which of the following are examples of block-level elements in HTML?  
+Answer: All of the above
+
+{23}: Question: How many characters can be written in 1KB?  
+Answer: 1024
+
+{24}: Question: What are some valid character sets available?  
+Answer: All of the above
+
+{25}: Question: The default value of the BORDER attribute is?  
+Answer: 1pixel
+
+{26}: Question: What are those objects called which are used for storing data on the client provided by the HTML local storage?  
+Answer: Both A and B
+
+{27}: Question: The most basic part of any HTML page is?  
+Answer: ASCII Text
+
+{28}: Question: What is the select tag used for?  
+Answer: Creates a combo box.
+
+{29}: Question: What are the main components of the front end of any working website?  
+Answer: HTML, CSS, Javascript.
+
+{30}: Question: Which HTML tag is used to set up a Javascript-like client-side scripting language?  
+Answer: <script>
